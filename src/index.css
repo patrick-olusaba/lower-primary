@@ -1,0 +1,12 @@
+/*
+  src/index.css
+  This file intentionally contains only a minimal reset.
+  All real styles are in src/styles/global.css.
+  Keeping this file prevents Vite's auto-generated version
+  from setting conflicting color/background values.
+*/
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
