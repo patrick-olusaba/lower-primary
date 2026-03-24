@@ -1,4 +1,4 @@
-import './styles/Global.css'
+import './styles/global.css'
 import { LowerPrimary } from "./components/LowerPrimary";
 
 function App() {
