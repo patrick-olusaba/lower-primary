@@ -1,5 +1,5 @@
 import type { Grade, Term, Subject } from "../types";
-import "../styles/Examinfo.css";
+import "../styles/examinfo.css";
 
 export interface ExamInfoScreenProps {
     grade: Grade;

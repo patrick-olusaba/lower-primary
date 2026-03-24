@@ -1,6 +1,6 @@
 import { useState } from "react";
 import type { Grade, Term } from "../types";
-import "../styles/GradeSelectScreen.css";
+import "../styles/gradeSelectScreen.css";
 
 interface TermSelectScreenProps {
     grade: Grade;

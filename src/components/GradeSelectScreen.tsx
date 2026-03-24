@@ -1,6 +1,6 @@
 import { useState } from "react";
 import type { Grade } from "../types";
-import "../styles/GradeSelectScreen.css";
+import "../styles/gradeSelectScreen.css";
 import heroImage from "../assets/hero.png";
 
 interface GradeSelectScreenProps {
